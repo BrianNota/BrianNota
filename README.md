@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **briannzeru@gmail.com**
+- 📫 How to reach me **notabrian4@gmail.com**
 
 - ⚡ Fun fact **I am a pretty good soccer player**
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Game**
 
-- 🌱 I’m currently learning **Aws, React Native**
+- 🌱 I’m currently learning **Azure, React Native**
 
 - 💬 Ask me about **Frontend Development**
 
